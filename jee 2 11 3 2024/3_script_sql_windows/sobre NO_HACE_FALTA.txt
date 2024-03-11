@@ -1,0 +1,5 @@
+Lo había mirado por aqui
+	https://stackoverflow.com/questions/698914/how-can-i-access-the-mysql-command-line-with-xampp-for-windows
+
+
+Me dijo que lo puedo meter a traves del phpmyadmin al tenerlo en el xampp
